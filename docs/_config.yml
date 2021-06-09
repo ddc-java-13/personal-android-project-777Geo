@@ -8,10 +8,10 @@ titles_from_headings:
 
 # Modify the contents below for the specific project.
 
-title: "Android Project Proposal"
-description: "Trust me, it'll be cool!"
-author:
-  name: "Java+Android Student"
+title: "FizzBuzz"
+description: "a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz”"
+author: Sergio Valdez
+  name: "Sergio Valdez"
 
 # Do not change the following line.
   copyright: true
