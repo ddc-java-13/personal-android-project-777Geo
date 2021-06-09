@@ -9,7 +9,7 @@ titles_from_headings:
 # Modify the contents below for the specific project.
 
 title: "FizzBuzz"
-description: "a program that prints the numbers from 1 to 100."
+description: "The Classic fast paced numbers game!"
 author:
   name: "Sergio Valdez"
 
