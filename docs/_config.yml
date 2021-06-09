@@ -9,8 +9,8 @@ titles_from_headings:
 # Modify the contents below for the specific project.
 
 title: "FizzBuzz"
-description: "a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz”"
-author: Sergio Valdez
+description: "a program that prints the numbers from 1 to 100."
+author:
   name: "Sergio Valdez"
 
 # Do not change the following line.
